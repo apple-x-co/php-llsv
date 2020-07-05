@@ -1,5 +1,5 @@
 {
-    "name": "maison/llsv",
+    "name": "maison/ltsv",
     "description": "",
     "type": "library",
     "authors": [
@@ -16,12 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Maison\\Llsv\\": "src/"
+            "Maison\\Ltsv\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Maison\\Llsv\\": "tests/"
+            "Maison\\Ltsv\\": "tests/"
         }
     },
     "scripts": {
